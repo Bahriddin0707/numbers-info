@@ -10,7 +10,7 @@
 ![image](https://github.com/user-attachments/assets/f09dc9de-1903-4d24-8a00-2036ca5513c4)
 
 
-In the project directory, you can run:
+## To run project, you can run
 
 ### `npm start`
 
